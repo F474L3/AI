@@ -1,0 +1,447 @@
+{
+    "showDegreePlanWarning": false,
+    "showDegreePlanWarningOnConfirm": false,
+    "currentSections": [
+        {
+            "actions": [],
+            "additionalData": {},
+            "sectionParameterValues": {},
+            "sectionParameterOptions": {},
+            "approval": "",
+            "approvalCode": "",
+            "hasCorequisites": false,
+            "hasFreetextbook": false,
+            "hasLowCostTextbook": false,
+            "hasPrerequisites": false,
+            "hasReserveCaps": false,
+            "hasRestrictions": true,
+            "hasSectionCorequisites": false,
+            "hasSectionNotes": true,
+            "isExternal": false,
+            "isHonors": false,
+            "isOnline": false,
+            "isWritingEnhanced": false,
+            "optional": false,
+            "registrationClosed": false,
+            "lastWaitListDate": null,
+            "partOfTermBeginDate": "2024-06-10T00:00:00",
+            "registrationEnds": "2024-08-12T00:00:00",
+            "creditsMax": 3.0,
+            "creditsMin": 3.0,
+            "openSeats": 0,
+            "topicId": null,
+            "institutionCode": "",
+            "institution": null,
+            "institutionAbbreviation": null,
+            "sectionAttributes": [
+                {
+                    "id": "SFA",
+                    "attrTitle": "",
+                    "attr": "",
+                    "valueTitle": "CCSF A: Communic./Analytical",
+                    "value": "SFA",
+                    "attrDescription": null
+                }
+            ],
+            "corequisiteSections": [],
+            "enrollmentRequirements": [],
+            "exams": [],
+            "instructor": [
+                {
+                    "id": "405",
+                    "name": "Ibrahim, Hanan",
+                    "email": "",
+                    "externalId": null,
+                    "instructorRole": ""
+                }
+            ],
+            "meetings": [
+                {
+                    "days": "",
+                    "daysRaw": "",
+                    "startTime": 0,
+                    "endTime": 0,
+                    "location": "",
+                    "meetingType": "CLAS",
+                    "startDate": "2024-06-10T00:00:00Z",
+                    "endDate": "2024-07-21T00:00:00Z",
+                    "mapURL": "",
+                    "meetingTypeDescription": "Class",
+                    "scheduleTypeCode": null,
+                    "scheduleTypeDescription": "Online Learning",
+                    "building": "",
+                    "buildingDescription": "",
+                    "buildingCode": "",
+                    "room": "",
+                    "firstMonday": "2024-06-10T00:00:00Z",
+                    "lastMonday": "2024-07-15T00:00:00Z"
+                }
+            ],
+            "reserveCaps": [],
+            "courseRestrictions": [
+                {
+                    "displayDescription": "May not be: Attribute High School Exemption and Must be: Level Credit Classes",
+                    "description": null,
+                    "code": null,
+                    "type": null
+                }
+            ],
+            "sectionRestrictions": [
+                {
+                    "displayDescription": "May not be: Attribute High School Exemption and Must be: Level Credit Classes",
+                    "description": null,
+                    "code": null,
+                    "type": null
+                }
+            ],
+            "disabledReasons": [],
+            "flags": [],
+            "linkedSectionRegNumbers": [],
+            "textbooks": [],
+            "registrationOptions": {
+                "gradingBases": [],
+                "showInstructorOptions": false,
+                "showPermissionNumberOption": true,
+                "showRequirementDesignationOption": false,
+                "showStartDateOption": false
+            },
+            "academicCareer": "Credit Classes",
+            "academicCareerDescr": "Credit Classes",
+            "academicCareerDescrShort": "Credit Classes",
+            "academicGroup": "",
+            "academicGroupDescr": "",
+            "campus": "Online",
+            "campusCode": "L",
+            "campusDescription": "Online",
+            "campusDescriptionRaw": "Online",
+            "campusShort": null,
+            "classAssociations": "",
+            "component": "Online Learning",
+            "corequisites": "",
+            "course": "150A",
+            "courseAttributes": "CCSF A: Communic./Analytical",
+            "credits": "3",
+            "customData": "<a href=\"https://www.bkstr.com/webapp/wcs/stores/servlet/OnlineRegistrationServlet?merfnbr=1325&termDir=20245&courseRefId1=53829\" target=\"_blank\">Click Here</a><br>Last Date to Enroll: 06/14/2024<br>Last Date for Refund: 06/12/2024<br>Last Date to Drop without a W: 06/14/2024<br>Last Date to Drop with a W: 07/10/2024",
+            "department": "Computer Science",
+            "description": "A course in the use of SQL database management systems to create, query, and update database tables. The course covers both the syntax and the logic of the major features of the SQL language. It also covers a brief overview of NoSQL (Not Only SQL) data sources such as JSON and MongoDB.&nbspT|Introduction to SQL Databases and NoSQL<br />H|Lec-52.5<br />F|Offered every semester",
+            "enrollmentStatus": "Wait Listed",
+            "fees": "",
+            "freeFormTopics": "",
+            "freeTextbookIndicated": "N",
+            "lowCostTextbookIndicated": "N",
+            "id": "53829",
+            "instructionMode": "Dist. Ed - Online",
+            "location": "",
+            "lrnComTitle": null,
+            "notes": "<b>This is an asynchronous online section. There are NO in-person meetings and NO virtual meetings. For more information, please visit the <a href=https://sites.google.com/mail.ccsf.edu/hananibrahim>instructor&#39;s website</a>.</b><br/><br/><b>This section runs for 6 weeks. It is NOT self-paced. It requires the use of Canvas and an internet-enabled device.</b><br/><br/><b>This section is part of CityOnline. For more information about CityOnline, please visit the <a href=https://www.ccsf.edu/academics/online-learning/cityonline>CityOnline website</a>.</b><br/><br/>A course in the use of SQL database management systems to create, query, and update database tables. The course covers both the syntax and the logic of the major features of the SQL language. It also covers a brief overview of NoSQL (Not Only SQL) data sources such as JSON, and MongoDB.<br /><br />Computer Science, CCSF A: Communic./Analytical<br/>",
+            "notesShort": "",
+            "partsOfTerm": "Summer 2024 - 6 weeks Summer session",
+            "prerequisites": "",
+            "registrationNumber": "53829",
+            "registrationType": "E",
+            "requirementDesignationDescr": "",
+            "seatsCapacity": "35",
+            "seatsFilled": "35",
+            "sectionNumber": "931",
+            "sectionStatus": "Active",
+            "subject": "CS",
+            "subjectId": "CS",
+            "textbook": "",
+            "title": "Introduction to SQL Databases and NoSQL",
+            "topicTitle": "",
+            "waitlist": "10",
+            "waitlistOpen": "0",
+            "waitlistPosition": 7
+        }
+    ],
+    "degreePlanCourses": [],
+    "courses": [
+        {
+            "id": "2274548",
+            "subjectShort": "CS",
+            "subjectLong": "Computer Science",
+            "subjectId": "CS",
+            "number": "111B",
+            "topic": null,
+            "title": "Programming Fundamentals: Java",
+            "topicTitle": null,
+            "description": "This course covers programming fundamentals using the Java language, emphasizing an object-oriented approach to problem solving. Topics include classes, objects, references, dynamic memory allocation, inheritance, polymorphism, arrays, files, design and implementation of abstract data types, in numerical and non-numerical applications.&nbspP|ADVISE: CS 10 or CS 110A or MATH 108<br />D|C-ID COMP 122<br />T|Programming Fundamentals: Java<br />H|Lec-70<br />F|Offered Fall and Spring semesters",
+            "enrollmentRequirements": [],
+            "notes": null,
+            "component": null,
+            "courseAttributes": "",
+            "credits": "4",
+            "corequisites": "",
+            "prerequisites": "",
+            "lockedRegistrationBlockId": "",
+            "isRequired": false,
+            "isLocked": false,
+            "isLearningCommunity": false,
+            "hasHonors": false,
+            "hasCorequisites": false,
+            "hasPrerequisites": false,
+            "hasRequisites": false,
+            "hasRestrictions": true,
+            "hasReserveCaps": false,
+            "hasWritingEnhanced": false,
+            "hasOptional": false,
+            "hasSectionNotes": true,
+            "hasFreeTextbook": false,
+            "hasLowCostTextbook": false,
+            "courseKey": "CS 111B",
+            "filteredRegBlockIds": [],
+            "selectedOptionalSectionIds": [],
+            "filterRules": [
+                {
+                    "type": "includeRegistrationNumber",
+                    "values": [
+                        "54116"
+                    ],
+                    "value": null,
+                    "excluded": false
+                }
+            ],
+            "flags": [],
+            "optionMessages": [],
+            "addedMessage": null
+        },
+        {
+            "id": "2274556",
+            "subjectShort": "CS",
+            "subjectLong": "Computer Science",
+            "subjectId": "CS",
+            "number": "160A",
+            "topic": null,
+            "title": "Introduction to Unix/Linux",
+            "topicTitle": null,
+            "description": "Introduction to using the Unix/Linux operating system. Unix/Linux file management and common text processing utilities including searching.&nbspT|Introduction to Unix/Linux<br />S|Satisfies core requirement for CS Linux Administration <br />S|certificate<br />H|Lec-35<br />F|Offered Fall and Spring semesters",
+            "enrollmentRequirements": [],
+            "notes": null,
+            "component": null,
+            "courseAttributes": "",
+            "credits": "2",
+            "corequisites": "",
+            "prerequisites": "",
+            "lockedRegistrationBlockId": "",
+            "isRequired": false,
+            "isLocked": false,
+            "isLearningCommunity": false,
+            "hasHonors": false,
+            "hasCorequisites": false,
+            "hasPrerequisites": false,
+            "hasRequisites": false,
+            "hasRestrictions": true,
+            "hasReserveCaps": false,
+            "hasWritingEnhanced": false,
+            "hasOptional": false,
+            "hasSectionNotes": true,
+            "hasFreeTextbook": false,
+            "hasLowCostTextbook": false,
+            "courseKey": "CS 160A",
+            "filteredRegBlockIds": [],
+            "selectedOptionalSectionIds": [],
+            "filterRules": [
+                {
+                    "type": "includeRegistrationNumber",
+                    "values": [
+                        "54383"
+                    ],
+                    "value": null,
+                    "excluded": false
+                }
+            ],
+            "flags": [],
+            "optionMessages": [],
+            "addedMessage": null
+        }
+    ],
+    "favorites": [],
+    "academicCareers": [
+        {
+            "id": "Credit Classes",
+            "title": "Credit Classes",
+            "selected": true,
+            "code": "01",
+            "locked": false
+        },
+        {
+            "id": "High School Classes",
+            "title": "High School Classes",
+            "selected": true,
+            "code": "03",
+            "locked": false
+        },
+        {
+            "id": "Non-Credit Classes",
+            "title": "Non-Credit Classes",
+            "selected": true,
+            "code": "02",
+            "locked": false
+        }
+    ],
+    "academicGroups": [],
+    "campuses": [
+        {
+            "id": "Ocean",
+            "title": "Ocean",
+            "selected": true,
+            "code": "P",
+            "locked": false
+        },
+        {
+            "id": "Evans",
+            "title": "Evans",
+            "selected": true,
+            "code": "E",
+            "locked": false
+        },
+        {
+            "id": "Online",
+            "title": "Online",
+            "selected": true,
+            "code": "L",
+            "locked": false
+        },
+        {
+            "id": "John Adams",
+            "title": "John Adams",
+            "selected": true,
+            "code": "J",
+            "locked": false
+        },
+        {
+            "id": "Mission",
+            "title": "Mission",
+            "selected": true,
+            "code": "M",
+            "locked": false
+        },
+        {
+            "id": "Other Sites",
+            "title": "Other Sites",
+            "selected": true,
+            "code": "N",
+            "locked": false
+        }
+    ],
+    "instructionModes": [
+        {
+            "id": "Dist. Ed - Online",
+            "title": "Dist. Ed - Online",
+            "selected": true,
+            "code": "72",
+            "locked": false
+        },
+        {
+            "id": "Laboratory/Studio/Activity",
+            "title": "Laboratory/Studio/Activity",
+            "selected": true,
+            "code": "04",
+            "locked": false
+        },
+        {
+            "id": "Lecture and/or Discussion",
+            "title": "Lecture and/or Discussion",
+            "selected": true,
+            "code": "02",
+            "locked": false
+        },
+        {
+            "id": "Dist. Ed Internet Simultaneous",
+            "title": "Dist. Ed Internet Simultaneous",
+            "selected": true,
+            "code": "71",
+            "locked": false
+        },
+        {
+            "id": "Work Experience",
+            "title": "Work Experience",
+            "selected": true,
+            "code": "20",
+            "locked": false
+        }
+    ],
+    "locations": [],
+    "partsOfTerm": [
+        {
+            "id": "Summer 2024 - 4 weeks Summer session I",
+            "title": "Summer 2024 - 4 weeks Summer session I (6/3/2024 - 6/30/2024)",
+            "selected": true,
+            "code": "S",
+            "locked": false
+        },
+        {
+            "id": "Summer 2024 - 4 weeks Summer session II",
+            "title": "Summer 2024 - 4 weeks Summer session II (7/1/2024 - 7/28/2024)",
+            "selected": true,
+            "code": "H",
+            "locked": false
+        },
+        {
+            "id": "Summer 2024 - 6 weeks Summer session",
+            "title": "Summer 2024 - 6 weeks Summer session (6/10/2024 - 7/21/2024)",
+            "selected": true,
+            "code": "T",
+            "locked": false
+        },
+        {
+            "id": "Summer 2024 - 7 weeks Summer session",
+            "title": "Summer 2024 - 7 weeks Summer session (6/10/2024 - 7/28/2024)",
+            "selected": true,
+            "code": "V",
+            "locked": false
+        },
+        {
+            "id": "Summer 2024 - 8 weeks Summer session",
+            "title": "Summer 2024 - 8 weeks Summer session (6/3/2024 - 7/28/2024)",
+            "selected": true,
+            "code": "U",
+            "locked": false
+        },
+        {
+            "id": "Summer 2024 - Not Full Term ",
+            "title": "Summer 2024 - Not Full Term  (5/25/2024 - 8/15/2024)",
+            "selected": true,
+            "code": "O",
+            "locked": false
+        },
+        {
+            "id": "Summer 2024 - SFUSD Dual Enrollment ",
+            "title": "Summer 2024 - SFUSD Dual Enrollment  (6/10/2024 - 7/19/2024)",
+            "selected": true,
+            "code": "Q",
+            "locked": false
+        }
+    ],
+    "sessions": [
+        {
+            "id": "Day",
+            "title": "Day",
+            "selected": true,
+            "code": "D",
+            "locked": false
+        },
+        {
+            "id": "Evening",
+            "title": "Evening",
+            "selected": true,
+            "code": "E",
+            "locked": false
+        },
+        {
+            "id": "Weekend",
+            "title": "Weekend",
+            "selected": true,
+            "code": "W",
+            "locked": false
+        }
+    ],
+    "holds": [],
+    "registrationWarnings": [],
+    "cartSections": [],
+    "studentAttributes": [],
+    "selectedCareer": null,
+    "userTermContext": {
+        "registrationTimeTickets": []
+    }
+}
